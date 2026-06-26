@@ -1,6 +1,6 @@
 # week1_assignment
 
-A new Flutter project.
+This is the first Flutter assignment, where the default flutter app logo and name is edited. The updated name is Aaki Prajapati, with a custom profile icon. 
 
 ## Getting Started
 
