@@ -20,14 +20,15 @@ For the second assignment, the previously configured application was configured 
     **Command to generate Flutter configuration:**
 
     dart run flutter_flavorizr
-   7. Each flavor can be run using the following commands:
-       **Commands to install the flavors:**
-       - **dev:**
-    flutter run --flavor dev
-       - **staging:**  flutter run --flavor staging
-       - **prod:**  flutter run --flavor prod
-    
-      - After running all 3 commands the 3 flavors were visible.
+
+7. Each flavor can be run using the following commands:
+      
+    **Commands to install the flavors:**
+      
+- **dev:** flutter run --flavor dev
+- **staging:**  flutter run --flavor staging
+- **prod:**  flutter run --flavor prod
+     - After running all 3 commands the 3 flavors were visible.
 
 8. Finally, the icons for dev and staging flavors were changed for easy recognition
 
